@@ -6,11 +6,10 @@
 
   ## Table of Contents
   * [Installation](#Installation)
-  * [Get Started](#Starting)
   * [Usage](#Usage)
   * [License](#License)
   * [Contributing](#Contributing)
-  * [Demo](#Example)
+  * [Tests](#Tests)
   * [Questions](#Questions)
 
   ## Installation <a name='Installation'></a>
@@ -19,12 +18,6 @@
     npm install
   ```
   
-  ## Starting <a name='Starting'></a>
-  To start the program, run this command:
-  ```
-  node index.js
-  ```
-
   ## Usage <a name='Usage'></a>
   You can quickly and easily create a README file by using command-line application to generate a high-quality one. This allows the project creator to devote more time to work on project.
   
@@ -34,9 +27,11 @@
   ## Contributing <a name='Contributing'></a>
   To contribute to this repo, feel free to contact me at caubenondo@gmail.com for colaboration.
 
-  ## Demo <a name='Example'></a>
-  You can review the [DEMO README FILE](./output/Example.md) or see below for app in action.
-  ![Demo](./resource/answer.gif )
+  ## Tests <a name='Tests'></a>
+  To run tests, run the following command:
+  ```
+    npm run tests
+  ```
 
   ## Questions <a name='Questions'></a>
   If you have any questions about the repo, open an issue or contact me directly at caubenondo@gmail.com.
