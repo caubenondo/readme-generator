@@ -35,7 +35,7 @@
   To contribute to this repo, feel free to contact me at caubenondo@gmail.com for colaboration.
 
   ## Demo <a name='Example'></a>
-  You can review the [DEMO README FILE](./output/README.md) or see below for app in action.
+  You can review the [DEMO README FILE](https://github.com/caubenondo/readme-generator/blob/main/output/readme.md) or see below for app in action.
   ![Demo](./resource/answer.gif )
 
   ## Questions <a name='Questions'></a>
