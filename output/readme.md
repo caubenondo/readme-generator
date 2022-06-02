@@ -1,8 +1,8 @@
-# This is a project title
+# Readme Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This is a project description. asdf asdfa sdfajlk;gjals;df
+  This project will generate a readme file with node inputs
 
   ## Table of Contents
   * [Installation](#Installation)
@@ -19,18 +19,18 @@
   ```
   
   ## Usage <a name='Usage'></a>
-  this is an additional info about the repo
+  this is the extra info
   
   ## License <a name='License'></a>
   The project is under [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Contributing <a name='Contributing'></a>
-  this is the info about the contributing
+  It's only me coding this project
 
   ## Tests <a name='Tests'></a>
   To run tests, run the following command:
   ```
-    npm run tests
+    npm test
   ```
 
   ## Questions <a name='Questions'></a>
