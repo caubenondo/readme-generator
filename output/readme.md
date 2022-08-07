@@ -1,8 +1,8 @@
-# Readme Generator
+# Social Media API with MongoDB
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  This project will generate a readme file with node inputs
+  In this project, we create a social media backend via MongoDB and Expess.
 
   ## Table of Contents
   * [Installation](#Installation)
@@ -15,22 +15,22 @@
   ## Installation <a name='Installation'></a>
   To install necessary dependencies, run the following command:
   ```
-    npm install
+    npm i
   ```
   
   ## Usage <a name='Usage'></a>
-  this is the extra info
+  This project is a backbone API, which doesn't handle the Auth or Security for your app. Please read through the files before implementing this project to yours.
   
   ## License <a name='License'></a>
   The project is under [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Contributing <a name='Contributing'></a>
-  It's only me coding this project
+  Contact me via info below if you want to contribute to this project.
 
   ## Tests <a name='Tests'></a>
   To run tests, run the following command:
   ```
-    npm test
+    npm run dev
   ```
 
   ## Questions <a name='Questions'></a>
